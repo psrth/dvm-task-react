@@ -12,6 +12,10 @@
     animation: App-logo-spin infinite 20s linear;
   }
 
+.jumb {
+  color: black;
+  font-weight: 500;
+}
 
 .navB {
   width: 120px;
@@ -40,6 +44,13 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.row-flex{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
 .App-link {
